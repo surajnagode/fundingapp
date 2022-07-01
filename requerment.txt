@@ -3,3 +3,7 @@ functions
 transfer funds
 withdrow funds 
 check balance
+
+moblie recharge
+electricity bill
+bike insiurance
